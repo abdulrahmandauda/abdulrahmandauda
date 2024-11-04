@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulrahmandauda
-- 👀 I’m interested in reading, running, and solving problem
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in reading, running, solving problems, and making positive changes.
+- 🌱 I’m currently working on increasing my knowledge of Java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adauda1@uncc.edu
 
